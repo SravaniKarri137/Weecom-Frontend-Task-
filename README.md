@@ -27,17 +27,17 @@ A simple **React + TailwindCSS** dashboard to manage products with CRUD operatio
 ---
 
 
-##Install dependencies
+## Install dependencies
 
 - npm install
 
-##Run the development server
+## Run the development server
 
 -npm run dev
 
 ---
 
-##Notes
+## Notes
 
 - Product data is fetched from DummyJSON API
 - All changes (add/update/delete) are local and do not persist on the server.
