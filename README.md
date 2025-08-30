@@ -30,10 +30,12 @@ A simple **React + TailwindCSS** dashboard to manage products with CRUD operatio
 ## Install dependencies
 
 - npm install
+  
+---
 
 ## Run the development server
 
--npm run dev
+- npm run dev
 
 ---
 
