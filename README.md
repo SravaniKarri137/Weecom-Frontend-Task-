@@ -1,6 +1,14 @@
-# SnapShop   -  A Product Management Dashboard
+# SnapShop - A Product Management Dashboard
+
+[![Vercel](https://img.shields.io/badge/Deploy-Vercel-blue?logo=vercel)](https://weecom-frontend-task-git-main-sravani-karris-projects.vercel.app?_vercel_share=gdbUdpIVWuf8Y0xlgjDepmgeXHhP2Pnk)
 
 A simple **React + TailwindCSS** dashboard to manage products with CRUD operations, search, filtering, and pagination. Built using [shadcn/ui](https://ui.shadcn.com/) components for a modern UI.
+
+---
+
+## Live Demo
+
+Check out the deployed project here: [https://weecom-frontend-task-git-main-sravani-karris-projects.vercel.app?_vercel_share=gdbUdpIVWuf8Y0xlgjDepmgeXHhP2Pnk](https://weecom-frontend-task-git-main-sravani-karris-projects.vercel.app?_vercel_share=gdbUdpIVWuf8Y0xlgjDepmgeXHhP2Pnk)
 
 ---
 
