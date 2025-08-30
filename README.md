@@ -1,4 +1,4 @@
-# Product Management Dashboard
+# SnapShop   -  A Product Management Dashboard
 
 A simple **React + TailwindCSS** dashboard to manage products with CRUD operations, search, filtering, and pagination. Built using [shadcn/ui](https://ui.shadcn.com/) components for a modern UI.
 
