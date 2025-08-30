@@ -29,53 +29,21 @@ A simple **React + TailwindCSS** dashboard to manage products with CRUD operatio
 
 ##Install dependencies
 
-npm install
+-npm install
 
 
-Run the development server
+##Run the development server
 
-npm run dev
+-npm run dev
 
-
-Project Structure
-src/
-├─ components/
-│  ├─ products/
-│  │  ├─ ProductForm.jsx
-│  │  ├─ ProductRow.jsx
-│  │  └─ ProductTable.jsx
-├─ hooks/
-│  └─ useProducts.js
-├─ pages/
-│  └─ ProductsPage.jsx
-└─ App.jsx
+---
 
 
-components/products: UI components for the product table and forms
 
-hooks/useProducts.js: Custom hook to fetch products and manage CRUD operations
+##Notes
 
-pages/ProductsPage.jsx: Main page for displaying and managing products
+-Product data is fetched from DummyJSON API
 
-Usage Guide
+-All changes (add/update/delete) are local and do not persist on the server.
 
-Open the Products page.
-
-Click Add Product to add a new product.
-
-Edit or delete existing products using the buttons in the table.
-
-Use the Search input to filter products by title.
-
-Select a category from the sidebar to filter products by category.
-
-Navigate between pages using Previous, Next, or page numbers.
-
-Notes
-
-Product data is fetched from DummyJSON API
-.
-
-All changes (add/update/delete) are local and do not persist on the server.
-
-Designed to be responsive for both desktop and mobile devices.
+-Designed to be responsive for both desktop and mobile devices.
